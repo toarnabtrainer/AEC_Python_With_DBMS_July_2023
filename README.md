@@ -6,9 +6,9 @@ https://github.com/toarnabtrainer/AEC_Python_With_DBMS_July_2023<br>
 https://tinyurl.com/mwckf4za
 
 **Teams Link:** <br>
-https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlOGFlNWUtYzNlOS00OTg4LWJjZWEtMmUzNzAzNGViYjlk%40thread.v2/0?context=%7b%22Tid%22%3a%22ff6114ce-6904-43f4-83a2-11ea43d58b83%22%2c%22Oid%22%3a%2240936497-561b-4e40-95f5-1655f81c8574%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlOGFlNWUtYzNlOS00OTg4LWJjZWEtMmUzNzAzNGViYjlk%40thread.v2/0?context=%7b%22Tid%22%3a%22ff6114ce-6904-43f4-83a2-11ea43d58b83%22%2c%22Oid%22%3a%2240936497-561b-4e40-95f5-1655f81c8574%22%7d <br>
 **or**<br>
-https://tinyurl.com/ys67jst7
+https://tinyurl.com/ys67jst7<br>
 
 **Python Download Link:**<br>
 **Anaconda Download Link:** https://www.anaconda.com/products/distribution
