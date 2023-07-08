@@ -5,6 +5,9 @@ https://github.com/toarnabtrainer/AEC_Python_With_DBMS_July_2023<br>
 **or**<br>
 https://tinyurl.com/mwckf4za
 
+**Attendance Link:**<br>
+https://forms.gle/9g7E9ZVxzBxA6gkY9 all students are instructed to give their attendance in this link
+
 **Teams Link:** <br>
 https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTBlOGFlNWUtYzNlOS00OTg4LWJjZWEtMmUzNzAzNGViYjlk%40thread.v2/0?context=%7b%22Tid%22%3a%22ff6114ce-6904-43f4-83a2-11ea43d58b83%22%2c%22Oid%22%3a%2240936497-561b-4e40-95f5-1655f81c8574%22%7d <br>
 **or**<br>
