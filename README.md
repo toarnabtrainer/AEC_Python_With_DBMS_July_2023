@@ -26,6 +26,9 @@ https://www.onlinegdb.com/
 **Learn Python Programming (programmiz.com):** https://www.programiz.com/python-programming<br>
 **Learn Python Programming (data-flair):** https://data-flair.training/blogs/python-tutorial/
 
+**Create your Oracle Live SQL Account against this link:**<br>
+https://livesql.oracle.com/
+
 <hr>
 
 ### Features of Python
