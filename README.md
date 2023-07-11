@@ -29,6 +29,19 @@ https://www.onlinegdb.com/
 **Oracle Live SQL Account Creation link:**<br>
 https://livesql.oracle.com/
 
+**Oracle Classwork**<br>
+<pre>
+create table student (
+    studentno number,
+    studentname varchar2(15),
+    studentemail varchar2(20)
+);
+insert into student values(101,'Nihar', 'nihar@gmail.com');
+insert into student values(102,'Tapan', 'tapan@rediffmail.com');
+insert into student values(103,'Sanjib', 'sanjib@ymail.com');
+select * from student;
+</pre>
+
 <hr>
 
 ### Features of Python
